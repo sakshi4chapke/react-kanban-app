@@ -1,0 +1,11 @@
+/* styles.css */
+
+.kanban-board {
+    display: flex;
+    gap: 16px; /* Adjust the gap between columns as needed */
+  }
+  
+  .kanban-column {
+    flex: 1;
+    padding: 16px;
+  }
